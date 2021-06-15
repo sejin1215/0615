@@ -1,0 +1,1 @@
+module.exports = { name: "강현구", age: 19 }
